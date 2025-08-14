@@ -1,0 +1,5 @@
+dataset,n_features,n_observations_train,n_observations_test,selection_criteria
+High Impact,14,938,400,eta_squared >= 0.06 (Medium+ effect)
+High Impact Scaled,14,938,400,eta_squared >= 0.06 (Medium+ effect) - Scaled
+Essential,8,938,400,eta_squared >= 0.14 (Large effect)
+Essential Scaled,8,938,400,eta_squared >= 0.14 (Large effect) - Scaled

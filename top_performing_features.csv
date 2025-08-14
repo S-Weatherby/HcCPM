@@ -1,0 +1,21 @@
+feature_name,eta_squared,effect_size_interpretation,analysis_source
+compound_lifestyle_risk,0.7906615894335258,Large,Advanced_Features
+smoker_bmi_interaction,0.7240543623518815,Large,Engineered_Features
+high_bmi_smoker,0.6708845091936511,Large,Engineered_Features
+smoker_age_interaction,0.6410102592892848,Large,Engineered_Features
+smoker → charges,0.629,Very Large,Original_Variables
+smoker × sex → charges,0.629,Very Large,Original_Variables
+smoker_encoded,0.6285902894139711,Large,Engineered_Features
+smoker_age_severity_index,0.5275815623849819,Large,Advanced_Features
+smoker_children_interaction,0.3820774414859456,Large,Engineered_Features
+senior_smoker,0.15965325369193556,Large,Engineered_Features
+age_bmi_interaction,0.1265781392064818,Medium,Engineered_Features
+metabolic_syndrome_risk,0.10830785026989061,Medium,Advanced_Features
+bmi_category × smoker → charges,0.107,Large,Original_Variables
+age_log,0.10223869336041161,Medium,Engineered_Features
+age_squared,0.10159501660764339,Medium,Engineered_Features
+age_cubed,0.09624462281972525,Medium,Engineered_Features
+age_group_ordinal,0.09225660366674585,Medium,Engineered_Features
+age_group_standard → charges,0.092,Large,Original_Variables
+bmi_category_ordinal,0.040409098681745706,Small,Engineered_Features
+bmi_category → charges,0.04,Medium,Original_Variables
